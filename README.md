@@ -1,6 +1,6 @@
 # aicut CLI
 
-[![npm](https://img.shields.io/npm/v/aicut)](https://www.npmjs.com/package/aicut) [![license: MIT](https://img.shields.io/npm/l/aicut)](LICENSE)
+[![npm](https://img.shields.io/npm/v/aicut-cli)](https://www.npmjs.com/package/aicut-cli) [![license: MIT](https://img.shields.io/npm/l/aicut-cli)](LICENSE)
 
 > This repository is the public home of the aicut command line: the README, [MODELS.md](MODELS.md), the licence and the issue tracker. The source lives in aicut's private monorepo and the `aicut` package on npm is built and published from there, so there is nothing to build here. Bug reports, model requests and ideas are welcome in [Issues](https://github.com/aicut-pro/cli/issues).
 
